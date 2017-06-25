@@ -22,6 +22,7 @@
 		FC12155C1EF5175A00EAA28E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FC12155F1EF5175A00EAA28E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FC1215611EF5175A00EAA28E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FC1215791EF5427B00EAA28E /* breakingbad.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = breakingbad.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +55,7 @@
 		FC1215541EF5175A00EAA28E /* FirstApp */ = {
 			isa = PBXGroup;
 			children = (
+				FC1215791EF5427B00EAA28E /* breakingbad.jpg */,
 				FC1215551EF5175A00EAA28E /* AppDelegate.swift */,
 				FC1215571EF5175A00EAA28E /* ViewController.swift */,
 				FC1215591EF5175A00EAA28E /* Main.storyboard */,
@@ -312,6 +314,7 @@
 				FC1215661EF5175A00EAA28E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
